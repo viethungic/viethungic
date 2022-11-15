@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hung Truong, a Full Stack Web Developer. I spend most of time to implement outstanding projects and making some awesome helps.
-- 👀 I’m interested in technology and Enterprise Architect. I love using technology to solve real business issues and drive improvement across the value chain. I model business process and layers the architecture of the underlying software and infrastructure to support the process. I have worked on a myriad of projects from fleet and factory management systems to e-commerce platform for clients such as GDS, VNG.
+- 👀 I’m interested in technology and Enterprise Architect. I love using technology to solve real business issues and drive improvement across the value chain. I model business process and layers the architecture of the underlying software and infrastructure to support the process. I have worked on a myriad of projects from quality assurance flow and factory management systems to e-commerce platform for clients such as GDS, VNG.
 - 🌱 I’m currently working at VNG coperation.
 - 💞️ I’m looking to collaborate on Awesome Projects with internation team mates.
 - 📫 How to reach me: hungvimach@gmail.com
